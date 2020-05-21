@@ -26,5 +26,34 @@ namespace Firma_transportowa.Controllers
 
             return View();
         }
+        public ActionResult Indextran()
+        {
+            return View();
+        }
+        public ActionResult Pusty()
+        {
+            return View();
+        }
+        public ActionResult Onas()
+        {
+            return View();
+        }
+        public ActionResult Oferta()
+        {
+            return View();
+        }
+        public ActionResult Cennik()
+        {
+            return View();
+        }
+        public ActionResult Rezerwacja()
+        {
+            return View();
+        }
+        public ActionResult Kontakt()
+        {
+            return View();
+        }
+        
     }
 }
